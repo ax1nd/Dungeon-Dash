@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚔️ Irrumbu Kottaai Pallupudingi ⚔️</h1>
+  <h1>⚔️ Dungeon Dash ⚔️</h1>
   <h3><i>A Premium 2D Action-Platformer Experience</i></h3>
   <br>
   <img src="snapshots/mazes.png" alt="Project Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
